@@ -1,0 +1,23 @@
+{
+  "name": "tensorflowjs_examples",
+  "version": "1.0.0",
+  "description": "Some examples of tensorflow.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raiszo/tfJS.git"
+  },
+  "keywords": [
+    "tensorflow",
+    "javascript"
+  ],
+  "author": "Raiszo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Raiszo/tfJS/issues"
+  },
+  "homepage": "https://github.com/Raiszo/tfJS#readme"
+}

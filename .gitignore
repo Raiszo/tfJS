@@ -1,3 +1,9 @@
+# emacs files
+*~
+\#*\#
+.\#*
+/server/
+
 # Logs
 logs
 *.log
