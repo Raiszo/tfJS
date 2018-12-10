@@ -5,6 +5,8 @@ async function main() {
 	const model = await tf.loadModel('file://./models/model.json');
 
 	console.log(model)
+	model.summary()
+	
 }
 
 main()
