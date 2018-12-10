@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Raiszo/tfJS/issues"
   },
-  "homepage": "https://github.com/Raiszo/tfJS#readme"
+  "homepage": "https://github.com/Raiszo/tfJS#readme",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^0.1.21"
+  }
 }
